@@ -10,7 +10,7 @@ This project is a personal resume website built using a serverless architecture 
 
 ## 🏗️ Architecture
 
-![Architecture Diagram](architecture-diagram.png)
+![Cloud Resume Architecture Diagram](Resume-diagram.drawio.png)
 
 The architecture consists of:
 - **S3**: Hosts the static HTML/CSS/JS files
