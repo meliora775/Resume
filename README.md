@@ -50,7 +50,7 @@ The architecture consists of:
 6. **Connect**: Add the API URL to your JavaScript
 
 ## 🗺️ Future Improvements
-- [ ] Add CI/CD pipeline with GitHub Actions
+- [✓] Add CI/CD pipeline with GitHub Actions (Already done)
 - [ ] Use Infrastructure as Code (Terraform)
 - [ ] Add authentication for admin features
 - [ ] Implement graceful error handling
